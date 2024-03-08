@@ -1,6 +1,6 @@
 {
   "name": "nusankerta",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -30,7 +30,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/didiansyah/nusankerta.git"
+    "url": "https://github.com/didiansyah/nusankerta.git"
   },
   "keywords": [
     "nusankerta"
